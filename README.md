@@ -13,16 +13,16 @@ Welcome to my GitHub profile, I'm a Computer Systems Engineer Student, constantl
 
 <p align="center"><img width="250" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ5eTY4bW5kdWUybTYzNGdwZGs1OHhpaHM1ejhsY2VuNTUwNHNxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"></p>
 
-## 👉 About this repo
+## 📍 About this repo
 
-- 📍 This repository will help you understand the main hooks and how they work.
-- 📍 The hooks you'll find here include useState, useEffect, useRef, useLayoutEffect, useMemo, useReducer, and useContext
-- 📍 Testing some of these hooks using Jest and React Testing Library.
+- This repository will help you understand the main hooks and how they work.
+- The hooks you'll find here include useState, useEffect, useRef, useLayoutEffect, useMemo, useReducer, and useContext
+- Testing some of these hooks using Jest and React Testing Library.
 
-## 👉 How to use this repo?
+## 📍 How to use this repo?
 
-- 📍 First, you need to install the required modules by running the following command: npm install.
-- 📍 You don't need to use any other API, as the one we're using is already included in this repository.
+- First, you need to install the required modules by running the following command: npm install.
+- You don't need to use any other API, as the one we're using is already included in this repository.
 - You need to uncomment the corresponding line in the main file to use the desired one.
 
 <h1 align="center">This is not the latest version of the repository; it's just a proof of concept!</h1>
